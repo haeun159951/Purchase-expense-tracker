@@ -1,9 +1,9 @@
 # Purchase-expense-tracker
 
-This is a two-screen application that allows user to track their purchase items.\
+This is a two-screen application that allows user to track their purchase items.
 
 In the first screen, there are three button where you can submit, load dummy data, and show purchase which goes to the next screen.\
-Users can write the form that they purchased and the form will be submitted by clicking the submit button\
+Users can write the form that they purchased and the form will be submitted by clicking the submit button
 <img width="250" alt="Screen Shot 2022-06-14 at 10 06 10 PM" src="https://user-images.githubusercontent.com/43290846/173882990-a9cc7be2-760a-4f46-b455-bc733f0d81c8.png">
 
 When you go to the next screen by clicking show purchase, you'll get to see the list of purchases.\ 
