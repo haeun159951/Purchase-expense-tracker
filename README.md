@@ -9,6 +9,7 @@ Users can enter purchase store, amount, status and this form will be submitted b
 
 When you go to the next screen by clicking show purchase, you'll get to see the list of purchases. 
 You'll see the one you made and the dummy data from the second load button.
+
 <img width="250" height="450" alt="Screen Shot 2022-06-14 at 10 06 23 PM" src="https://user-images.githubusercontent.com/43290846/173883023-debabfd1-3aef-421f-845a-490e3cab03b4.png">
 
 If you want to change any item, you can update by tapping the specific row in the listview. When the row is tapped, you'll see the dialog where you can edit your purchase store, amount, paid status. if you don't put anything to update, there will be an error message as toast.
