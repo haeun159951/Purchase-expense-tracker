@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+    <TextView
+        android:id="@+id/tvStoreName"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Name of Store" />
+
+    <TextView
+        android:id="@+id/tvAmountUserPurchase"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Amount of Purchase" />
+
+    <TextView
+        android:id="@+id/tvPaidStatus"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Paid status" />
+
+</LinearLayout>
